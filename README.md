@@ -23,9 +23,22 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
 ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/72da2672-8c4b-4eb7-9770-941abd398f45)
 
 
-次に日本語の３点リーダーを押して、キー設定の「編集」を選択肢、２つのアクションをCTRL+SPACEに変更する
+次に日本語の３点リーダーを押して、キー設定の「編集」を選択肢、２つのアクションをCTRL+SPACEに変更する  
+設定したらログアウトする
 ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/4c623ad5-ef52-42b7-bff3-df02f9d958b9)
 
 ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/4ddae190-5e5e-4b15-abe3-9316341e6b9e)
 ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/a5225e56-f9a9-491a-b389-7928a6843085)
+
+3. フォルダを英字名にする
+   ```
+   LANG=C xdg-user-dirs-gtk-update
+   ```
+         " Don't ask me this again " にチェックを入れて、[ Update Names ] をクリック
+
+4. Dockのショートカットを変更する（Intellijのショートカットとぶつかる想定）
+   Super(win) + 1 の機能を　Super + Shift + 1 にする（２−９も）
+   .bashrc に記入する  
+
+   
 
