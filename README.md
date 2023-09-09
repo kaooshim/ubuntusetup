@@ -38,7 +38,10 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
 
 4. Dockのショートカットを変更する（Intellijのショートカットとぶつかる想定）
    Super(win) + 1 の機能を　Super + Shift + 1 にする（２−９も）
-   .bashrc に記入する  
+   .bashrc に記入する
+   ```
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-1 "['<Super><Shift>1']"
+ 
 
    
 
