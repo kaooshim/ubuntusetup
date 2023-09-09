@@ -63,6 +63,19 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
    gsettings set org.gnome.shell.keybindings switch-to-application-0 "['<Super><Alt>0']"
    ```
 
+5. IntellijのキーマップをMac風にする
+   TweakToolをインストールして起動
+   ```
+   sudo apt update
+   sudo apt-add-repository universe
+   sudo apt install gnome-tweaks
+   gnome-tweaks
+   ```
+   キーボードとマウスのメニューを開いて「追加のレイアウトオプション」を選択「Meta is mapped to Win」にする
+   ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/4010c225-6c29-4401-bce1-e79d1a0e22f0)
+   ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/26d76ef2-85dc-458d-839e-dcd163a599b2)
+
+
 
 
 
