@@ -84,7 +84,10 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
      LWIN を LALT の数値（入れたときは64）
    ```
    ログインし直す。
-  　https://h-iijima.hatenadiary.org/entry/20110307/1299489812   
+  　https://h-iijima.hatenadiary.org/entry/20110307/1299489812
+
+7. Intellij入れる
+    https://www.jetbrains.com/help/idea/installation-guide.html#toolbox   
 
 
 
