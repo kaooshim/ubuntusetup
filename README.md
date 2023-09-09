@@ -49,10 +49,10 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
    gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-7 "['<Super><Alt>7']"
    gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-8 "['<Super><Alt>8']"
    gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-9 "['<Super><Alt>9']"
-   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-0 "['<Super><Alt>0']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-10 "['<Super><Alt>0']"
    
    gsettings set org.gnome.shell.keybindings switch-to-application-1 "['<Super><Alt>1']"
-   gsettings set org.gnome.shell.keybindings switch-to-application-2 "['<Super><Alt>2']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-2 "['<Super><Alt>2']"11
    gsettings set org.gnome.shell.keybindings switch-to-application-3 "['<Super><Alt>3']"
    gsettings set org.gnome.shell.keybindings switch-to-application-4 "['<Super><Alt>4']"
    gsettings set org.gnome.shell.keybindings switch-to-application-5 "['<Super><Alt>5']"
@@ -60,7 +60,7 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
    gsettings set org.gnome.shell.keybindings switch-to-application-7 "['<Super><Alt>7']"
    gsettings set org.gnome.shell.keybindings switch-to-application-8 "['<Super><Alt>8']"
    gsettings set org.gnome.shell.keybindings switch-to-application-9 "['<Super><Alt>9']"
-   gsettings set org.gnome.shell.keybindings switch-to-application-9 "['<Super><Alt>0']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-0 "['<Super><Alt>0']"
    ```
 
 
