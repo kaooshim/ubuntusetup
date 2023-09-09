@@ -37,10 +37,36 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
          " Don't ask me this again " にチェックを入れて、[ Update Names ] をクリック
 
 4. Dockのショートカットを変更する（Intellijのショートカットとぶつかる想定）
-   Super(win) + 1 の機能を　Super + Shift + 1 にする（２−９も）
+   Super(win) + 1 の機能を　Super + Alt + 1 にする（２−９も）
    .bashrc に記入する
    ```
-   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-1 "['<Super><Shift>1']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-1 "['<Super><Alt>1']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-2 "['<Super><Alt>2']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-3 "['<Super><Alt>3']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-4 "['<Super><Alt>4']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-5 "['<Super><Alt>5']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-6 "['<Super><Alt>6']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-7 "['<Super><Alt>7']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-8 "['<Super><Alt>8']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-9 "['<Super><Alt>9']"
+   gsettings set org.gnome.shell.extensions.dash-to-dock app-hotkey-0 "['<Super><Alt>0']"
+   
+   gsettings set org.gnome.shell.keybindings switch-to-application-1 "['<Super><Alt>1']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-2 "['<Super><Alt>2']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-3 "['<Super><Alt>3']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-4 "['<Super><Alt>4']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-5 "['<Super><Alt>5']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-6 "['<Super><Alt>6']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-7 "['<Super><Alt>7']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-8 "['<Super><Alt>8']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-9 "['<Super><Alt>9']"
+   gsettings set org.gnome.shell.keybindings switch-to-application-9 "['<Super><Alt>0']"
+   ```
+
+
+
+
+   
  
 
    
