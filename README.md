@@ -76,6 +76,17 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
    ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/26d76ef2-85dc-458d-839e-dcd163a599b2)
 
 
+6. WinキーとAltきーを入れ替える
+   ```
+   sudo cp evdev evdev_org
+   sudo vi evdev
+     LALT を LWIN の数値（入れたときは133）
+     LWIN を LALT の数値（入れたときは64）
+   ```
+   ログインし直す。
+  　https://h-iijima.hatenadiary.org/entry/20110307/1299489812   
+
+
 
 
 
