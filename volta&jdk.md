@@ -1,6 +1,7 @@
 https://lunaris-code.com/web/351/
 
 https://volta.sh/na
+nodeをインストールしたあとは一度ログアウトすること。そうしないとIntellijがパスを検索してくれない
 ```
 # install Volta
 curl https://get.volta.sh | bash
