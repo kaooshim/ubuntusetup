@@ -106,6 +106,13 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
    ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/39e32305-41b8-4e93-b3d0-41b26c621220)
 
 8. IntellijのキーマップをMac似変更
+   plugin からmacOS Keymap をインストール
+   ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/2422d842-3129-46bb-8b18-3d23ff10e6cd)
+   customize からキーマップを「macOS」に設定
+   ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/f0678e5d-0093-4f6a-a9c5-c28aafd587ba)
+
+   https://qiita.com/kitakkun/items/9519935e38d9fb092617
+
    
 
 
