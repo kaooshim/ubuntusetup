@@ -87,8 +87,26 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
   　https://h-iijima.hatenadiary.org/entry/20110307/1299489812
 
 7. Intellij入れる
-    https://www.jetbrains.com/help/idea/installation-guide.html#toolbox   
+    https://www.jetbrains.com/help/idea/installation-guide.html#toolbox
+    desktopアイコンをランチャーに入れる。ファイルの場所は/home/leno/.local/share/applications。ファイル名は自由だけど拡張子は .desktop
 
+   ---
+   #!/usr/bin/env xdg-open  
+   [Desktop Entry]  
+　　Version=2023.03  
+　　Terminal=false  
+　　Type=Application  
+　　Name=Intellij  
+　　Exec="/opt/idea-IU-232.9559.62/bin/idea.sh" %f  
+　　Icon=/opt/idea-IU-232.9559.62/bin/idea.png  
+　　StartupWMClass=jetbrains-idea
+
+   ---
+   ソフトウェア検索で作ったアイコンを検索してアプケーションに登録する
+   ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/39e32305-41b8-4e93-b3d0-41b26c621220)
+
+8. IntellijのキーマップをMac似変更
+   
 
 
 
