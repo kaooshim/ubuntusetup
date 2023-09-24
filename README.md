@@ -78,6 +78,7 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
 
 6. WinキーとAltきーを入れ替える
    ```
+   /usr/share/X11/xkb/keycodes/evdev 
    sudo cp evdev evdev_org
    sudo vi evdev
      LALT を LWIN の数値（入れたときは133）
