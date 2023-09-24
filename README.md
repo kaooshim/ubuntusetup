@@ -90,7 +90,7 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
 7. Intellij入れる
     https://www.jetbrains.com/help/idea/installation-guide.html#toolbox
     desktopアイコンをランチャーに入れる。ファイルの場所は/home/leno/.local/share/applications。ファイル名は自由だけど拡張子は .desktop
-
+   注：　表示上では下記デスクトップファイルの例がインデントがかかっているように見えるがインデント無しで詰めて書くように。そうしないとソフトウェア検索で出てこない＞＜
    ---
    #!/usr/bin/env xdg-open  
    [Desktop Entry]  
@@ -106,7 +106,7 @@ https://github.com/gllrmzndm/Installing_Linux_on_ThinkPad_E585/blob/master/Insta
    ソフトウェア検索で作ったアイコンを検索してアプケーションに登録する
    ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/39e32305-41b8-4e93-b3d0-41b26c621220)
 
-8. IntellijのキーマップをMac似変更
+9. IntellijのキーマップをMac似変更
    plugin からmacOS Keymap をインストール
    ![image](https://github.com/kaooshim/ubuntusetup/assets/63496960/2422d842-3129-46bb-8b18-3d23ff10e6cd)  
    customize からキーマップを「macOS」に設定  
