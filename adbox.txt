@@ -1,3 +1,3 @@
-https://jp.moyens.net/android/223560/
+https://pc-freedom.net/today_pc_story/waydroid-running-android-on-linux/
 
-ubuntuでandroidアプリを動かす
+waydroidに変更。adboxはメンテが２０２３年からやってない
